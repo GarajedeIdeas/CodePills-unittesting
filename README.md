@@ -1,5 +1,5 @@
 # Webinar Youtube
-Intro a typescript en 20 min
+Introducción a Unit Testing en React con Jest
 
 ## Curso completo
 [AQUÍ](https://youtu.be/n5qbzhZUMsY)

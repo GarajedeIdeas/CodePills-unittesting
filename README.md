@@ -1,3 +1,9 @@
+# Webinar Youtube
+Intro a typescript en 20 min
+
+## Curso completo
+[AQUÍ](https://youtu.be/n5qbzhZUMsY)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
